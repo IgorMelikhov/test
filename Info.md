@@ -1,4 +1,19 @@
 # Инструкция по работе с git
+1. Представиться git
+
+    * git config user.name
+    * git config user.email
+2. Создать репозиторий
+    * git unit
+3. Работа с репозиторием
+    1. Изменение файлов и их сохранение
+        * git add
+        * git commit
+    2. Информация о состоянии репозитория
+        * git log
+        * git status
+        * git diff
+
 
 # Список команд
 
